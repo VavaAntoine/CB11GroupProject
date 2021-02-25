@@ -13,8 +13,4 @@ The fulfilled requirements are as follows:
    a. Gives access to read some restricted material e.g. e-book or
    b. Buy some goods, e.g. purchase a digital object
 
-Implemented technologies: 
-   Spring Boot, JPA, Hibernate, MySQL, REST API, Spring Security, 
-   JWT, JavaScript, JSON, 
-   Stripe API, WebSocket API, 
-   HTML, CSS, Bootstrap
+Implemented technologies: Spring Boot, JPA, Hibernate, MySQL, REST API, Spring Security, JWT, JavaScript, JSON, Stripe API, WebSocket API, HTML, CSS, Bootstrap
