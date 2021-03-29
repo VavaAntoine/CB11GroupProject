@@ -1,7 +1,7 @@
 # CB11GroupProject
 Transactional marketplace, web application.
 
-The fulfilled requirements are as follows:
+The requirements that have been fulfilled are the following:
 1. The application you need to build is a web app that gives the ability to users to **register and login**.
 2. Your web application needs to be able to **connect with a database** either locally or remotely.
 3. Your application must implement **at least two roles**.
